@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+p{
+    
+    text-align: center;
+}
+
+body{
+
+    background-color: steelblue; 
+
+}d
+
+figure{
+    
+    margin: inherit;
+}
+
+table, th, td {
+    border: 30px solid red;
+	text-align:	 center;
+}
+
+<colgroup>
+    <col span="2" style="background-color:white">
+    <col style="background-color:silver">
+  </colgroup>
